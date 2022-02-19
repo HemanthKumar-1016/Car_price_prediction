@@ -141,9 +141,7 @@ pyrsistent
 PySocks 
 pytest==6.2.3
 python-dateutil 
-python-jsonrpc-server 
-python-language-server 
-python-slugify==5.0.2
+python-jsonrpc-server
 pywin32==227
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
