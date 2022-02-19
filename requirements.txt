@@ -134,8 +134,7 @@ pyerfa
 pyflakes 
 Pygments 
 pylint 
-pyls-black 
-pyls-spyder
+pyls-black
 pyodbc===4.0.0-unsupported
 pyOpenSSL 
 pyparsing 
