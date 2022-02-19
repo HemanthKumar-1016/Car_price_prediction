@@ -133,9 +133,7 @@ pydocstyle
 pyerfa 
 pyflakes 
 Pygments 
-pylint 
-pyls-black
-pyodbc===4.0.0-unsupported
+pylint
 pyOpenSSL 
 pyparsing 
 pyreadline==2.1
